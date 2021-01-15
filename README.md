@@ -10,4 +10,7 @@ Anggota Kelompok:
 
 3.Risky Sehat Tua Simarmata / 3311901064
 
+Kami menggunakan dataset Cryotherapy
+
+Berikut Link datasetnya : https://archive.ics.uci.edu/ml/datasets/Cryotherapy+Dataset+
  
